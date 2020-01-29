@@ -1,3 +1,3 @@
 # NixieMiniGame
 
-This is a little hacking mini-game I have been playing around with.  Enjoy!
+This is a little hacking mini-game I built for fun.  Still needs some attention but some fun components here.  Enjoy!
